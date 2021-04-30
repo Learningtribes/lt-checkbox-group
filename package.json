@@ -1,5 +1,5 @@
 {
-  "name": "se-react-checkbox-group",
+  "name": "lt-react-checkbox-group",
   "version": "1.0.25",
   "main": "dist/component.js",
   "scripts": {
@@ -50,7 +50,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/seancy/se-react-checkbox-group.git"
+    "url": "git+https://github.com/Learningtribes/lt-react-checkbox-group.git"
   },
   "keywords": [
     "react",
@@ -58,8 +58,8 @@
     "range"
   ],
   "bugs": {
-    "url": "https://github.com/seancy/se-react-checkbox-group/issues"
+    "url": "https://github.com/Learningtribes/lt-react-checkbox-group/issues"
   },
-  "homepage": "https://github.com/seancy/se-react-checkbox-group#readme",
+  "homepage": "https://github.com/Learningtribes/lt-react-checkbox-group#readme",
   "description": "scope element Dropdown"
 }

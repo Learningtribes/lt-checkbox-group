@@ -67,9 +67,9 @@ class CheckboxGroup extends React.Component {
         }
 
         return (
-            <CheckboxWrapper className={'se-react-checkbox-group ' + (this.props.className || '')}>
+            <CheckboxWrapper className={'lt-react-checkbox-group ' + (this.props.className || '')}>
                 {data.map(item => {
-                    const id = 'se-react-checkbox-group-box' + item.value;
+                    const id = 'lt-react-checkbox-group-box' + item.value;
                     return (
                         <li key={item.value}>
                             <input type="checkbox" id={id} value={item.value}
