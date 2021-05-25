@@ -19,7 +19,7 @@
     "@babel/plugin-transform-spread": "^7.8.3",
     "@babel/preset-env": "^7.8.3",
     "@babel/preset-react": "^7.8.3",
-    "@svgr/webpack": "^5.0.1",
+    "@svgr/webpack": "5.0.1",
     "@testing-library/react": "^10.0.1",
     "babel-jest": "^25.2.3",
     "babel-loader": "^8.0.6",
@@ -46,7 +46,7 @@
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "styled-components": "^5.0.1"
+    "styled-components": "5.0.1"
   },
   "repository": {
     "type": "git",
